@@ -22,8 +22,8 @@ This project is a Vue.js application that fetches patient data from an API and a
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd patients
+   git clone (https://github.com/lebaschi/Patients-app/)
+   cd patients-app
    
 2. **Install dependencies:**
 - npm install
